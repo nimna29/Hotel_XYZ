@@ -10,3 +10,7 @@ This group consist of 5 students. [5 members of TAKG-ALPHA Group]
 | H.G.G. Hettiarachchi |
 | G.V.N.N. Galpola     |
 | W.A. Peris           |
+
+
+## `Hotel XYZ JSP Repo`
+Check out the [Hotel_XYZ_JSP](https://github.com/nimna29/Hotel_XYZ_JSP)
